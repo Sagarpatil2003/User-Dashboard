@@ -54,3 +54,4 @@ A responsive web application to manage users.
 
 ### Mobile View
 <img src="./screenshots/mobile-view.png" width="300"/>
+C:\Users\sarvadnya\OneDrive\Desktop\Projects\Assignments\Sprint-2\Q-3\User Dashbord\screenshots\desktop-view.png
