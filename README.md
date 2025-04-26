@@ -50,7 +50,7 @@ A responsive web application to manage users.
 ## Screenshots
 
 ### Desktop View
-![Desktop View](./screenshots/desktop-view.png)
+<img src="./screenshots/desktop-view.png" width="600"/>
 
 ### Mobile View
-![Mobile View](./screenshots/mobile-view.png)
+<img src="./screenshots/mobile-view.png" width="300"/>
