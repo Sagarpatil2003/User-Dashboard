@@ -30,4 +30,10 @@ JavaScript (Fetch API, DOM Manipulation)
 
 Screenshots
 
-Desktop View	Mobile View
+## Screenshots
+
+### Desktop View
+![Desktop View](./screenshots/desktop-view.png)
+
+### Mobile View
+![Mobile View](./screenshots/mobile-view.png)
