@@ -54,3 +54,6 @@ A responsive web application to manage users.
 
 ### Mobile View
 <img src="./screenshots/mobile-view.png" width="300"/>
+git add .
+git commit -m "Added screenshots"
+git push
